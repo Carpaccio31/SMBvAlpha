@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4C6EF5"/>
+      <stop offset="100%" stop-color="#15AABF"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="20" rx="8" ry="8" width="86" height="88" fill="url(#g)" />
+  <path d="M24 36h62M24 54h62M24 72h44" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <text x="120" y="80" font-family="Verdana, Arial, sans-serif" font-size="56" fill="#222">ScanMyBook</text>
+</svg>
